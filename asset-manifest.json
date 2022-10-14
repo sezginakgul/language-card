@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/language-card/static/css/main.f58d048b.css",
+    "main.js": "/language-card/static/js/main.747d3c89.js",
+    "static/media/php.png": "/language-card/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/language-card/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/css.png": "/language-card/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/language-card/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/language-card/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/ts.png": "/language-card/static/media/ts.1a203e65baa39b0b972d.png",
+    "static/media/java.png": "/language-card/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/language-card/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "index.html": "/language-card/index.html",
+    "main.f58d048b.css.map": "/language-card/static/css/main.f58d048b.css.map",
+    "main.747d3c89.js.map": "/language-card/static/js/main.747d3c89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58d048b.css",
+    "static/js/main.747d3c89.js"
+  ]
+}
